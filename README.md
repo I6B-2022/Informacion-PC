@@ -1,2 +1,7 @@
 # Informacion-ServicioPC
-Pagina web de Jesus, Daniel, Alicia
+Materia: Programación en ambiente cliente servidor
+
+Integrantes
+- Jesus
+- Daniel
+- Alicia
