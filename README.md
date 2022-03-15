@@ -1,4 +1,4 @@
-# Informacion-ServicioPC
+# Informacion-PC
 Materia: Programación en ambiente cliente servidor
 
 Integrantes
