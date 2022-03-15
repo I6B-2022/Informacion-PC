@@ -1,4 +1,4 @@
-# Informacion-PC
+# Tienda Refacccionaria
 Materia: Programación en ambiente cliente servidor
 
 Integrantes
