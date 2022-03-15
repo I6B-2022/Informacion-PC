@@ -82,7 +82,7 @@ section:nth-child(odd) {
     text-align: center;
     transition: all 0.2s ease-out;
     padding: 24px 4px;
-    background-color: #0078af;
+    background-color: #6257D9;
     color: #fff;
     box-shadow: 9px 9px 16px 0px rgba(0, 0, 0, 0.25);
 }
@@ -219,7 +219,7 @@ section:nth-child(odd) {
     font-size: 14px;
     padding: 5px 18px;
     color: #fff;
-    background-color: #e47618;
+    background-color: red;
     border: 0;
     cursor: pointer;
     transition: all 0.2s ease-in;
@@ -244,7 +244,7 @@ footer {
     width: 100%;
     height: 100px;
     line-height: 100px;
-    background-color: #f5f5f5;
+    background-color: white;
     z-index: 100;
     text-align: right;
 }
