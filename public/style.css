@@ -18,7 +18,7 @@ body {
     width: 100vw;
     display: block;
     position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('./img/bike.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('./img/inicio.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -59,7 +59,7 @@ section {
 }
 
 section:nth-child(even) {
-    background-color: #fefefe;
+     background: linear-gradient(90deg, rgba(195,213,53,1) 0%, rgba(236,225,135,1) 4%, rgba(235,241,135,1) 6%, rgba(228,210,108,1) 9%, rgba(234,240,129,1) 19%, rgba(226,218,107,0.9979342078628326) 26%, rgba(233,229,113,1) 42%, rgba(158,162,80,0.9559174011401436) 75%, rgba(217,214,3,1) 93%, rgba(207,255,0,1) 100%);
 }
 
 section:nth-child(odd) {
@@ -148,11 +148,11 @@ section:nth-child(odd) {
 }
 
 #parallex-set-1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./img/bike2.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./img/fondo2.jpg');
 }
 
 #parallex-set-2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./img/bike2.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./img/fondo3.jpg');
 }
 
 #parallex-set-3 {
