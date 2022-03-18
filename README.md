@@ -10,4 +10,6 @@ Pagina
 https://servicio-informacion-pc.web.app/
 
 EJEMPLO
-![INICIO](https://user-images.githubusercontent.com/98989050/158930218-9d254adb-2850-45d2-b9fe-709f0d2d173b.png)
+
+
+![INICIO](https://user-images.githubusercontent.com/98989050/158930258-6a75d300-ea76-4943-896b-1fd484d8d3e0.png)
