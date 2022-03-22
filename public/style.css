@@ -63,7 +63,7 @@ section:nth-child(even) {
 }
 
 section:nth-child(odd) {
-    background-color: #f0f0f0;
+    background-color:  rgba(236,225,135,1);
 }
 
 #shop {
@@ -82,12 +82,12 @@ section:nth-child(odd) {
     text-align: center;
     transition: all 0.2s ease-out;
     padding: 24px 4px;
-    background-color: #6257D9;
+    background-color:black;
     color: #fff;
     box-shadow: 9px 9px 16px 0px rgba(0, 0, 0, 0.25);
 }
 .box:hover {
-    background-color: #e47618 ;
+    background-color: coral;
     transform: scale(1.1);
     color: #fff;
 }
@@ -175,7 +175,7 @@ section:nth-child(odd) {
     width: 100%;
     height: 100%;
     z-index: 15;
-    background-image: linear-gradient(rgba(0, 0, 0, O.5), rgba(0, 0, 0, 0.7));
+    background-image: linear-gradient((0, 0, 0, O.5), rgba(0, 0, 0, 0.7));
 }
 
 .item-box .item-box-img>img {
@@ -207,7 +207,7 @@ section:nth-child(odd) {
     width: 80%;
     font-style: italic;
     font-size: 13px;
-    color: #e6e6e6;
+    color: black;
 }
 
 .item-box .item-box-btn {
@@ -226,7 +226,7 @@ section:nth-child(odd) {
 }
 
 .item-box .item-box-btn:hover {
-    background-color: #0e80cc;
+    background-color: #08060c;
 }
 
 .card-img-top {
@@ -235,7 +235,7 @@ section:nth-child(odd) {
 .card {
     margin: 15px 0;
     cursor: pointer;
-    box-shadow: 9px 9px 16px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 9px 9px 16px 0px rgba(233, 22, 22, 0.25);
 }
 
 footer {
