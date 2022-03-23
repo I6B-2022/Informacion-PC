@@ -86,7 +86,7 @@ section:nth-child(odd) {
     box-shadow: 9px 9px 16px 0px rgba(0, 0, 0, 0.25);
 }
 .box:hover {
-    background: radial-gradient(circle, rgb(187, 123, 123) 5%, rgb(160, 28, 89) 40%);
+    background: radial-gradient(circle, rgb(187, 123, 123) 10%, rgb(165, 120, 141) 40%);
     transform: scale(1.1);
     color: #fff;
 }
