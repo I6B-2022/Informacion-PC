@@ -59,10 +59,10 @@ section {
 }
 
 section:nth-child(even) {
-     background: linear-gradient(0deg, rgba(255,251,166,0.35) 72%, rgba(255,251,166,1) 84%); }
+     background: linear-gradient(0deg, rgba(255,251,166,0.30) 72%, rgb(238, 234, 177) 95%); }
 
 section:nth-child(odd) {
-    background-color:  rgba(236,225,135,1);
+    background-color:  rgb(238, 234, 177);
 }
 
 #shop {
@@ -86,7 +86,7 @@ section:nth-child(odd) {
     box-shadow: 9px 9px 16px 0px rgba(0, 0, 0, 0.25);
 }
 .box:hover {
-    background: radial-gradient(circle, rgb(187, 123, 123) 10%, rgb(165, 120, 141) 40%);
+    background: radial-gradient(circle, rgb(78, 77, 77) 10%, rgb(97, 89, 93) 40%);
     transform: scale(1.1);
     color: #fff;
 }
