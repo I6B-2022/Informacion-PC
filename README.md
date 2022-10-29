@@ -3,13 +3,12 @@ Materia: Programación en ambiente cliente servidor
 
 ## 🤝Integrantes
 - Jesus
-- Daniel
-- Alicia
+
 
 
 |  | Name | Link |
 | - | - | - |
-| 1 | Tienda de Refacciones | https://servicio-informacion-pc.web.app/ |
+| 1 | Interfaces web | https://servicio-informacion-pc.web.app/ |
 
 ## 🚀PÁGINA
 
